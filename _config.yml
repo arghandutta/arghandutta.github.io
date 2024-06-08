@@ -22,11 +22,11 @@ repository               : "arghandutta/arghandutta.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arghan Dutta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Doctoral student in Mathematics"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Massachusetts"
   uri              : # URL
   email            : "none@example.org" 
 
