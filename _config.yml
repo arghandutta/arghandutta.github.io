@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Arghan Dutta / Site Title"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Arghan Dutta"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   name             : "Arghan Dutta"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral student in Mathematics"
-  location         : "Earth"
-  employer         : "University of Massachusetts"
+  location         : "Amherst, MA, USA"
+  employer         : "University of Massachusetts Amherst"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arghandutta@umass.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
