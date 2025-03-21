@@ -3,7 +3,7 @@ body {
   padding:50px;
   /*font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
   font: 14px/1.5 "Garamond", "serif";
-  color:#979191;
+  color:#ffffff;
   font-weight:400;
 }
 
@@ -26,12 +26,12 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:rgb(132, 205, 241);
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:rgb(74, 138, 170);
   font-weight: 500;
 }
 
