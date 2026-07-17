@@ -88,3 +88,26 @@ a:hover {
   padding: 4px 0px 4px 4px;
   border-color: #286ea0;
 }
+
+.intro {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.intro-text {
+    flex: 1;
+}
+
+.intro-photo {
+    flex: 0 0 280px;
+    text-align: center;
+}
+
+.intro-photo img {
+    width: 260px;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #bbb;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
