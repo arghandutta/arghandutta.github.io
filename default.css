@@ -74,10 +74,12 @@ a:hover {
 .intro-photo {
   flex: 0 0 220px;
   margin-left: auto;
+  margin-top: -30px;
+  order: 1;
 }
 
 .intro-photo img {
-  width: 220px;
+  width: 180px;
   max-width: 100%;
   height: auto;
   display: block;
