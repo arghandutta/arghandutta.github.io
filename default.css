@@ -57,7 +57,7 @@ a:hover {
   padding-left: 25px;
   /*font: 110% Verdana, Tahoma, Arial, sans-serif;*/
   font: 18px/1.2 "Cormorant Garamond", "serif";
-  overflow: hidden;
+  position: relative;
   
 }
 
@@ -90,29 +90,18 @@ a:hover {
   border-color: #286ea0;
 }
 
-.intro {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
-    width: 100%;
-    gap: 30px;
-}
-
-.intro-text {
-    flex: 1;
-    min-width: 0;
-}
-
-.intro-photo {
-    flex: 0 0 220px;
-    text-align: right;
-}
-
-.intro-photo img {
+.profile-photo {
+    position: absolute;
+    top: 0;
+    right: 20px;
     width: 220px;
     height: auto;
     border-radius: 8px;
     border: 1px solid #bbb;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+#content h2,
+#content p {
+    margin-right: 260px;
 }
